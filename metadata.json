@@ -1,0 +1,6 @@
+{
+  "name": "Stanley SCADA OS - Supervisório Industrial OEE",
+  "description": "Sistema Supervisório SCADA industrial para monitoramento de OEE, telemetria de CLP, rastreamento de turnos e controle de acesso operacional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
